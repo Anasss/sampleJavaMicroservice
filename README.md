@@ -6,7 +6,7 @@ Sample project of a Microservice setup using Spring Boot
 
 # Next steps
 
-* [ ] Add docker-init.bash
+* [x] Add docker-init.bash
 * [ ] Design and Add new entry-points
 * [ ] Write UT, add Jacoco and codeCov
 * [ ] Add Postman Collection
